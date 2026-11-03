@@ -117,12 +117,14 @@
             removerToolStripMenuItem.Name = "removerToolStripMenuItem";
             removerToolStripMenuItem.Size = new Size(180, 22);
             removerToolStripMenuItem.Text = "Remover";
+            removerToolStripMenuItem.Click += removerToolStripMenuItem_Click;
             // 
             // editarToolStripMenuItem
             // 
             editarToolStripMenuItem.Name = "editarToolStripMenuItem";
             editarToolStripMenuItem.Size = new Size(180, 22);
             editarToolStripMenuItem.Text = "Editar";
+            editarToolStripMenuItem.Click += editarToolStripMenuItem_Click;
             // 
             // Form1
             // 
