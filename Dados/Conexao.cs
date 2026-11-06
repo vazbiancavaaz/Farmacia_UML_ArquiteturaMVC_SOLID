@@ -11,9 +11,7 @@ namespace FarmaciaCRUD.dados
 
         public Conexao()
         {
-            string pasta = Path.Combine(
-                Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
-                "FarmaciaCRUD");
+            string pasta = AppContext.BaseDirectory;
 
             Directory.CreateDirectory(pasta);
             CaminhoBanco = Path.Combine(pasta, "farmacia.db");
