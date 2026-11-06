@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "5Iz5qAsGTXs=",
+  "dgSpecHash": "kdh9tkZmPLg=",
   "success": true,
-  "projectFilePath": "E:\\AMS2026\\Farmacia\\Farmacia\\Farmacia.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\sakai\\Farmacia_UML_ArquiteturaMVC_SOLID\\Farmacia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sakai\\.nuget\\packages\\microsoft.data.sqlite\\10.0.14\\microsoft.data.sqlite.10.0.14.nupkg.sha512",
+    "C:\\Users\\sakai\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.14\\microsoft.data.sqlite.core.10.0.14.nupkg.sha512",
+    "C:\\Users\\sakai\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.13\\sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\sakai\\.nuget\\packages\\sqlitepclraw.core\\2.1.13\\sqlitepclraw.core.2.1.13.nupkg.sha512",
+    "C:\\Users\\sakai\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.13\\sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\sakai\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.13\\sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\sakai\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }

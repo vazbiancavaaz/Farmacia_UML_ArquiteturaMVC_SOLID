@@ -17,13 +17,6 @@ namespace Farmacia
         {
             InitializeComponent();
 
-            _controller.Cadastrar(new Remedio
-            {
-                Nome = "Dipirona",
-                Descricao = "Frasco de gotas, 20 mL",
-                Preco = 9.50m
-            });
-
             dgvRemedios.AutoGenerateColumns = false;
             dgvRemedios.RowTemplate.Height = 56;
             dgvRemedios.DataSource = _controller.Listar();
