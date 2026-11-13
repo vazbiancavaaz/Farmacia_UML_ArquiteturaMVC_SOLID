@@ -19,7 +19,7 @@ namespace FarmaciaCRUD.dados
             {
                 if (File.Exists(Path.Combine(diretorio.FullName, "Farmacia.csproj")))
                 {
-                    pasta = diretorio.FullName;
+                    pasta = diretorio.FullName
                     break;
                 }
 

@@ -4,6 +4,9 @@
     <Compile Update="View\CadastroRemedioForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="View\CarrinhoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="View\EditarRemedioForm.cs">
       <SubType>Form</SubType>
     </Compile>
